@@ -1,3 +1,4 @@
+"use strict"
 var userAnswer = prompt ('Введите температуру в градусах Цельсия', '');
  
 t_far = userAnswer * 1.8 + 32;
